@@ -5,7 +5,6 @@
 
 ## 🚀 About Me  
 - 💻 **C++ Developer** with expertise in high-performance computing  
-- 🔬 Currently working on **neural network implementations** and optimization algorithms  
 - 🌱 Always learning and exploring new frontiers in AI/ML  
 - 🧠 Passionate about **competitive programming**
 - 🌍 Languages: English (professional), Mandarin (native), Fuzhounese (conversational), German (elementary)
