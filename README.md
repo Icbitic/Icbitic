@@ -5,6 +5,6 @@
 
 ## 🚀 About Me  
 - 💻 **C++ Developer** with expertise in high-performance computing  
-- 🌱 Always learning and exploring new frontiers in AI/ML  
-- 🧠 Passionate about **competitive programming**
+- 🌱 Always learning and exploring new frontiers in AI/M
+- 🧠 **ICPC Silver Medalist** – Passionate about competitive programming
 - 🌍 Languages: English (professional), Mandarin (native), Fuzhounese (conversational), German (elementary)
