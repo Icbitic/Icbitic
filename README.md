@@ -1,6 +1,6 @@
 # Hi there, I'm Kalenitid 👋  
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Deep+Learning+Engineer;C%2B%2B+Developer;Algorithm+Enthusiast;Open+Source+Contributor;AI+Researcher;Tech+Explorer;Coding+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Deep+Learning+Engineer+%28Still+trying+to+understand+my+own+model%29;C%2B%2B+Developer+%28Segfault+survivor%29;Algorithm+Enthusiast+%28But+I+swear+I+can+optimize+it%29;Open+Source+Contributor+%28I+contribute+to+projects+no+one+reads%29;AI+Researcher+%28Learning+while+my+algorithms+laugh+at+me%29;Tech+Explorer+%28Where's+the+bug+this+time%3F%29;Coding+Innovator+%28I+fix+bugs+in+style%29" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me  
