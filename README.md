@@ -4,7 +4,7 @@
 </div>
 
 ## 🚀 About Me  
-- 💻 **C++ Developer** with expertise in high-performance computing  
-- 🌱 Always learning and exploring new frontiers in AI/ML
-- 🧠 **ICPC Silver Medalist** – Won a silver medal in ICPC Shanghai regional
+- 💻 **C++ Developer** -  Fluent in C++, templates, and summoning segfaults at will
+- 🌱 **AI/ML Explorer** – Always learning new things, mostly so I can tell my algos I’m smarter than them.
+- 🧠 **ICPC Silver Medalist** – Got a silver medal for solving bugs faster than I create them.
 - 🌍 Languages: English (professional), Mandarin (native), Fuzhounese (conversational), German (elementary)
